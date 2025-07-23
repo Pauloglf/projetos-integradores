@@ -1,5 +1,10 @@
 # Projetos Integradores Informática para Internet - IFRN - Campus São Paulo do Potengi
 ## 2025
+### SARC: Sistema de Agendamento e Reserva de Computadores
+- Equipe: [Paulo Gabriel](https://github.com/Pauloglf), [José Alexandre](https://github.com/ZeAlexandre5/), [Artur Felipe](https://github.com/ArturFew)
+- Descrição: O objetivo é auxiliar os alunos que necessitam utilizar os computadores dos laboratórios, oferecendo uma plataforma online para agendamento de horários. Dessa forma, buscamos tornar o uso dos laboratórios mais organizado, acessível e eficiente para todos os estudantes.
+- Github: https://github.com/ZeAlexandre5/SARC
+
 ### Potengi Digital: Tecnologia, Formação e Mundo do Trabalho na Região Potengi
 - Equipe: [Clara Souza](https://github.com/clarasouzas), [Joice Santos](https://github.com/jleilhany), [Elayne Fernandes](https://github.com/elaynefernandes)
 - Descrição: O projeto tem como finalidade mapear as demandas de Tecnologia da Informação (TI) e acompanhar as dinâmicas do mundo do trabalho na região do Potengi/RN, visando fortalecer a inserção profissional dos estudantes dos cursos técnicos do IFRN – Campus São Paulo do Potengi.
